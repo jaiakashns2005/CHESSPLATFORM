@@ -1,0 +1,22 @@
+{
+  "name": "chess-training-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Production-grade Chess Training & Playing Platform",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "test": "npm --prefix client run test",
+    "test:run": "npm --prefix client run test:run",
+    "lint": "npm --prefix client run lint"
+  },
+  "keywords": [
+    "chess",
+    "stockfish",
+    "chess-training",
+    "react",
+    "typescript"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
